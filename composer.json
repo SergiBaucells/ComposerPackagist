@@ -1,0 +1,14 @@
+{
+    "name": "sergi/tonteriapaquet",
+    "description": "nah",
+    "require": {
+        "fzaninotto/faker": "^1.7",
+        "laravel/framework": "^5.5"
+    },
+    "authors": [
+        {
+            "name": "SergiBaucells",
+            "email": "sergibaucells@iesebre.com"
+        }
+    ]
+}
